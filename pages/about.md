@@ -1,9 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Marine Evolutionary Ecologist
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Tatum Bernat (she/her) is a Ph.D. candidate in the [Graduate Group in Ecology](https://ecology.ucdavis.edu/) at UC Davis. 
+
+She earned her B.S. in Marine Biology from UCLA where she studied anthropogenic stressors on coral reefs, conservation genetics in coastal lagoons, and the evolution of biomineralization. After graduating, Tatum worked as a marine molecular biology lab technician in [Dr. Ronald Burton’s lab](https://burtonlab.weebly.com/store/c1/Featured_Products.html) at the Scripps Institution of Oceanography (UCSD). She studied the genomics of hybrid breakdown and thermal adaptation in the copepod, Tigriopus californicus, while managing an invasive mussel monitoring program. 
+
+Broadly, she is drawn to eco-evolutionary dynamics related to responses to environmental and anthropogenic disturbances, which she describes as “molecular disturbance ecology.” In her free time, she enjoys playing board games, camping, and eating Mexican food.
