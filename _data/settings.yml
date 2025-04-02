@@ -12,9 +12,9 @@ menu:
 
 projects:
 - {name: 'Genomic Mechanisms of Osmoregulatory Plasticity',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
+- {name: 'Chinnok Salmon Exposed to Wildfire Ash',   url: 'proj-2'}
+- {name: 'Red Abalone Sex Marker Development', url: 'proj-3'}
+- {name: 'Past Projects',  url: 'proj-4'}
 - {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
